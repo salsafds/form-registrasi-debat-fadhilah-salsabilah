@@ -180,7 +180,7 @@ function RegistrationForm() {
                 <label className="block text-sm font-medium text-purple-700 mb-1">
                   Pengalaman Debat <span className="text-red-500">*</span>
                 </label>
-                <div className="px-4 py-2space-y-2 mt-1">
+                <div className="px-4 py-2 space-y-2 mt-1">
                   {[
                     { value: "novice", label: "Pemula (Novice)" },
                     { value: "junior", label: "Menengah (Junior/Varsity)" },
